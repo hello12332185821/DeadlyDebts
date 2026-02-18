@@ -1,7 +1,7 @@
 # 💰 DeadlyDebts
 ### The ultimate physical-item bounty system for Minecraft servers.
 
-DeadlyDebts is a high-performance bounty plugin that moves away from virtual currency. Instead of "fake" money, players put real items—Diamonds, Netherite, or custom currency, on the heads of their enemies.
+DeadlyDebts is a high-performance bounty plugin that moves away from virtual currency. Instead of "fake" money, players put real items. Diamonds, Netherite, or custom currency, on the heads of their enemies.
 
 ---
 
